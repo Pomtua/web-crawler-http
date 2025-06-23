@@ -9,10 +9,12 @@ Install [Node.js](https://nodejs.org/en/download/) on your system
 ### Installation
 Clone this repository with this command
     `git clone https://github.com/Pomtua/web-crawler-http.git`
+
     `npm install jsdom`
 
 ### Running the Crawler
 Execute the main.js
     `node main.js <Base_URL>`
+
 Example
     `node main.js https://wagslane.dev`
