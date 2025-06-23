@@ -1,0 +1,23 @@
+{
+  "name": "web-crawler-http",
+  "version": "1.0.0",
+  "description": "Project for learn http networking course",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pomtua/web-crawler-http.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pomtua/web-crawler-http/issues"
+  },
+  "homepage": "https://github.com/Pomtua/web-crawler-http#readme",
+  "devDependencies": {
+    "jest": "^30.0.2"
+  }
+}
